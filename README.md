@@ -64,7 +64,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Home Page:
 ![NewsMonkey Home](./home-tab.png)
 
-### Business News:
+### Technology News:
 ![NewsMonkey Technology](./technology-tab.png)
 
 ---
