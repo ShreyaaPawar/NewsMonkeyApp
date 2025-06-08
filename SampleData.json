@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Carlo Versano",
+      "title": "The 1600: Trump-Musk Bromance Goes Bust",
+      "description": "Editor's note: This is a preview of The 1600, Newsweek's daily newsletter by politics and culture director Carlo Versano.",
+      "url": "https://www.newsweek.com/1600-trump-musk-bromance-goes-bust-2081368",
+      "urlToImage": "https://d.newsweek.com/en/full/2656685/trump-musk.jpg",
+      "publishedAt": "2025-06-05T12:59:03Z",
+      "content": "Good morning,\r\nWe're having what I would call a Classic Northeast Spring here in the Big Town, where it just goes from cold and rainy to HOT AND HUMID overnight. It's around this time every year I st… [+5081 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Sturla Henriksen",
+      "title": "Geopolitical Tensions are Shaping the Future of our Oceans",
+      "description": "Politics is roiling the waters that should connect us, writes the U.N. Global Compact Special Adviser for Ocean.",
+      "url": "http://time.com/7290403/geopolitical-tensions-future-of-oceans/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/06/south-china-sea-fishing-vessel-chinese-ship.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-06-05T11:00:00Z",
+      "content": "The urgency of halting ocean degradation and unlocking the promise of a sustainable blue economy has never been greater. Yet, as the third U.N. Ocean Conference convenes from June 9-13 in Nice, Franc… [+5612 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Brett Worthington",
+      "title": "Liberals hose down Alan Stockdale's women comment while parliament achieves parity",
+      "description": "This week in politics the parliament has achieved gender parity despite tone-deaf commentary, an independent triumphed after a recount and Dorinda Cox changed her tune.",
+      "url": "https://www.abc.net.au/news/2025-06-05/alan-stockdale-sussan-ley-dorinda-cox-nicolette-boele-parliament/105379160",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f08335d44a8b1b3410f952a79d020549?impolicy=wcms_watermark_news&cropH=2466&cropW=4384&xPos=0&yPos=268&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-06-05T06:55:12Z",
+      "content": "Welcome back to your weekly federal politics update, where Brett Worthington gets you up to speed on the happenings from Parliament House.\r\nSenior blokes in the Liberal Party have long had an issue r… [+8354 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "The nation’s cartoonists on the week in politics",
+      "description": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundred…",
+      "url": "https://www.politico.com/gallery/2025/05/30/the-nations-cartoonists-on-the-week-in-politics-00375427",
+      "urlToImage": "https://static.politico.com/de/f3/aa21c1fa4d7c8f944e1ae9e4c75d/teaser.jpg",
+      "publishedAt": "2025-05-30T09:00:00+00:00",
+      "content": "Cartoon Carousel \r\nEvery week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-s… [+261 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Dawn Handley",
+      "title": "CNN Headlines | CNN",
+      "description": "CNN Headlines is a curated channel covering major news events across politics, international, business, and entertainment, and showcasing the most impactful stories of the day.",
+      "url": "https://www.cnn.com/videos/fast/cnn-headlines",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-placeholder-1920x1080.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-03T19:55:38.781Z",
+      "content": "CNN Headlines is a curated channel covering major news events across politics, international, business, and entertainment, and showcasing the most impactful stories of the day."
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
